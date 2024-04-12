@@ -1,0 +1,12 @@
+ 
+      public : 같은 패키지, 다른 패키지 
+  	protected : 같은 패키지, 다른 패키지(상속)
+  	  default : 같은 패키지
+  	  private : 객체 내부에서만 사용 
+  
+  
+  	class - public or default 
+  	
+  	 field, method, Constructor -  all  
+ 
+ 	 
